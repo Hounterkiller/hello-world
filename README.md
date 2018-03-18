@@ -10,3 +10,7 @@ La estructura del proyecto debe contener la siguiente estructura:
 -- Web
 -- IOS
 -- Android
+
+Adicional, no debemos olvidar registrar los documentos en la carpeta Docs
+
+--Docs
